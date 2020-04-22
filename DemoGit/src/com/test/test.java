@@ -6,7 +6,7 @@ public class test {
 		// TODO Auto-generated method stub
 		
 		System.out.println("This  is sample");
-		System.out.println("This  is Master Branch ");
+		System.out.println("This  is Development Branch ");
 	}
 
 }
